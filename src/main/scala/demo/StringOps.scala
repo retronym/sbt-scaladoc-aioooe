@@ -1,5 +1,3 @@
 package demo
 
-abstract class StringOps extends demo.GenIterableLike[Char, String] {
-
-}
+abstract class StringOps extends demo.Base
